@@ -1,152 +1,203 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-language="English" tvg-country="UK" tvg-id="BBC_EARTH" tvg-logo="http://example.com/logo1.png" group-title="Entertainment",BBC EARTH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30825.m3u8
-
-#EXTINF:-1 tvg-name="AUTO MOTOR SPORT" tvg-language="English" tvg-country="UK" tvg-id="AUTO_MOTOR_SPORT" tvg-logo="http://example.com/logo2.png" group-title="Sports",AUTO MOTOR SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30824.m3u8
-
-#EXTINF:-1 tvg-name="BNT 1" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BNT_1" tvg-logo="http://example.com/logo3.png" group-title="General",BNT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30823.m3u8
-
-#EXTINF:-1 tvg-name="BNT 2" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BNT_2" tvg-logo="http://example.com/logo4.png" group-title="General",BNT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30822.m3u8
-
-#EXTINF:-1 tvg-name="BNT 3" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BNT_3" tvg-logo="http://example.com/logo5.png" group-title="General",BNT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30821.m3u8
-
-#EXTINF:-1 tvg-name="BNT 4" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BNT_4" tvg-logo="http://example.com/logo6.png" group-title="General",BNT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30820.m3u8
-
-#EXTINF:-1 tvg-name="BTV" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BTV" tvg-logo="http://example.com/logo7.png" group-title="General",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30819.m3u8
-
-#EXTINF:-1 tvg-name="BTV COMEDY" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BTV_COMEDY" tvg-logo="http://example.com/logo8.png" group-title="Comedy",BTV COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30818.m3u8
-
-#EXTINF:-1 tvg-name="BTV CINEMA" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BTV_CINEMA" tvg-logo="http://example.com/logo9.png" group-title="Movies",BTV CINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30817.m3u8
-
-#EXTINF:-1 tvg-name="BTV ACTION" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BTV_ACTION" tvg-logo="http://example.com/logo10.png" group-title="Action",BTV ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30816.m3u8
-
-#EXTINF:-1 tvg-name="BTV LADY" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BTV_LADY" tvg-logo="http://example.com/logo11.png" group-title="Drama",BTV LADY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30815.m3u8
-
-#EXTINF:-1 tvg-name="MAX SPORT 1" tvg-language="Bulgarian" tvg-country="BG" tvg-id="MAX_SPORT_1" tvg-logo="http://example.com/logo12.png" group-title="Sports",MAX SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30814.m3u8
-
-#EXTINF:-1 tvg-name="MAX SPORT 2" tvg-language="Bulgarian" tvg-country="BG" tvg-id="MAX_SPORT_2" tvg-logo="http://example.com/logo13.png" group-title="Sports",MAX SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30813.m3u8
-
-#EXTINF:-1 tvg-name="MAX SPORT 3" tvg-language="Bulgarian" tvg-country="BG" tvg-id="MAX_SPORT_3" tvg-logo="http://example.com/logo14.png" group-title="Sports",MAX SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30812.m3u8
-
-#EXTINF:-1 tvg-name="MAX SPORT 4" tvg-language="Bulgarian" tvg-country="BG" tvg-id="MAX_SPORT_4" tvg-logo="http://example.com/logo15.png" group-title="Sports",MAX SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30811.m3u8
-
-#EXTINF:-1 tvg-name="DIEMA TV" tvg-language="Bulgarian" tvg-country="BG" tvg-id="DIEMA_TV" tvg-logo="http://example.com/logo16.png" group-title="General",DIEMA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30810.m3u8
-
-#EXTINF:-1 tvg-name="DIEMA SPORT" tvg-language="Bulgarian" tvg-country="BG" tvg-id="DIEMA_SPORT" tvg-logo="http://example.com/logo17.png" group-title="Sports",DIEMA SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30809.m3u8
-
-#EXTINF:-1 tvg-name="DIEMA SPORT 2" tvg-language="Bulgarian" tvg-country="BG" tvg-id="DIEMA_SPORT_2" tvg-logo="http://example.com/logo18.png" group-title="Sports",DIEMA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30808.m3u8
-
-#EXTINF:-1 tvg-name="DIEMA FAMILY" tvg-language="Bulgarian" tvg-country="BG" tvg-id="DIEMA_FAMILY" tvg-logo="http://example.com/logo19.png" group-title="Family",DIEMA FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30807.m3u8
-
-#EXTINF:-1 tvg-name="24 KITCHEN" tvg-language="Bulgarian" tvg-country="BG" tvg-id="24_KITCHEN" tvg-logo="http://example.com/logo20.png" group-title="Food",24 KITCHEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30806.m3u8
-
-#EXTINF:-1 tvg-name="ACTION PLUS" tvg-language="Bulgarian" tvg-country="BG" tvg-id="ACTION_PLUS" tvg-logo="http://example.com/logo21.png" group-title="Action",ACTION PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30805.m3u8
-
-#EXTINF:-1 tvg-name="ALFA TV" tvg-language="Bulgarian" tvg-country="BG" tvg-id="ALFA_TV" tvg-logo="http://example.com/logo22.png" group-title="General",ALFA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30804.m3u8
-
-#EXTINF:-1 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="http://example.com/logo23.png" group-title="Movies",AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30803.m3u8
-
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-language="English" tvg-country="US" tvg-id="ANIMAL_PLANET" tvg-logo="http://example.com/logo24.png" group-title="Documentary",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30802.m3u8
-
-#EXTINF:-1 tvg-name="AXN" tvg-language="English" tvg-country="US" tvg-id="AXN" tvg-logo="http://example.com/logo25.png" group-title="Entertainment",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30801.m3u8
-
-#EXTINF:-1 tvg-name="BABY TV" tvg-language="English" tvg-country="US" tvg-id="BABY_TV" tvg-logo="http://example.com/logo26.png" group-title="Kids",BABY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30800.m3u8
-
-#EXTINF:-1 tvg-name="BG MUSIC" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BG_MUSIC" tvg-logo="http://example.com/logo27.png" group-title="Music",BG MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30799.m3u8
-
-#EXTINF:-1 tvg-name="BG DNES" tvg-language="Bulgarian" tvg-country="BG" tvg-id="BG_DNES" tvg-logo="http://example.com/logo28.png" group-title="News",BG DNES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30798.m3u8
-
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-language="English" tvg-country="US" tvg-id="BLOOMBERG" tvg-logo="http://example.com/logo29.png" group-title="News",BLOOMBERG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30797.m3u8
-
-#EXTINF:-1 tvg-name="BOX TV" tvg-language="English" tvg-country="US" tvg-id="BOX_TV" tvg-logo="http://example.com/logo30.png" group-title="Music",BOX TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://example.com/
-http://wskunsa12.wanicelife.com:8880/DAALM2859/3cYHMxNpwe/30796.m3u8
-
-#EXTINF:-1 tvg-name="BULGARIA 24" tvg-language
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",------|Bulgaria|------
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30826
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG001:BBC EARTH
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30825
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG002:AUTO MOTOR SPORT
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30824
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG003:BNT 1
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30823
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG004:BNT 2
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30822
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG005:BNT 3
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30821
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG006:BNT 4
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30820
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG007:BTV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30819
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG008:BTV COMEDY
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30818
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG009:BTV CINEMA
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30817
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG010:BTV ACTION
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30816
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG011:BTV LADY
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30815
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG012:MAX SPORT 1
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30814
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG013:MAX SPORT 2
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30813
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG014:MAX SPORT 3
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30812
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG015:MAX SPORT 4
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30811
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG016:DIEMA TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30810
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG017:DIEMA SPORT
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30809
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG018:DIEMA SPORT 2
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30808
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG019:DIEMA FAMILY
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30807
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG020:24 KITCHEN
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30806
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG021:ACTION PLUS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30805
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG022:ALFA TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30804
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG023:AMC
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30803
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG024:ANIMAL PLANET
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30802
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG025:AXN
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30801
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG026:BABY TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30800
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG027:BG MUSIC
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30799
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG028:BG DNES
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30798
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG029:BLOOMBERG
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30797
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG030:BOX TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30796
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG031:BULGARIA 24
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30795
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG032:BULGARIA ON AIR
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30794
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG033:BSTV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30793
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG034:CARTOON NETWORK
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30792
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG035:CINEMA PLUS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30791
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG036:CINEMAX
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30790
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG037:CINEMAX 2
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30789
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG038:CITY TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30788
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG039:CODE FASHION TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30787
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG040:COMEDY PLUS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30786
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG041:DESTINATIONS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30785
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG042:DISCOVERY CHANNEL
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30784
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG043:DISCOVERY SCIENCE
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30783
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG044:DISNEY CHANNEL
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30782
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG045:vip dstv
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30781
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG046:DUCK TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30780
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG047:E KIDS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30779
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG048:EVROKOM
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30778
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG049:FEN TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30777
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG050:FILM PLUS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30776
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG051:FILMBOX EXTRA
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30775
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG052:FOLKLOR
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30774
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG053:FOOD NETWORK
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30773
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG054:FOX CRIME
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30772
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG055:FOX
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30771
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG056:FOX LIFE
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30770
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG057:HBO
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30769
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG058:HBO 2
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30768
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG059:HBO 3
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30767
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG060:HISTORY CHANNEL
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30766
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG061:HIT MIX CHANNEL
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30765
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG062:HOBBY LOV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG063:HOBBY TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30763
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG064:ICONCERTS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30762
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG065:ID EXTRA
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30761
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG066:JIM JAM
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30760
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG067:NOVA NEWS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30759
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG068:KINONOVA
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30758
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG069:MAGIC TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30757
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG070:MTV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30756
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG071:NAT GEO
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30755
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG072:NAT GEO WILD
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG073:NICKELODEON
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30753
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG074:NOVA TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30752
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG075:PLANETA FOLK
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30751
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG076:PLANETA
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30750
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG077:RETRO MUSIC
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30749
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG078:RING
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30748
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG079:SKAT TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30747
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG080:THE VOICE
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30746
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG081:TIANKOV FOLK
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30745
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG082:TLC
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30744
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG083:TRAVEL CHANNEL
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30743
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG084:TV 1000
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30742
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG085:TV EVROPA
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30741
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG086:TV PLUS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30740
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG087:TV 1
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30739
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG088:VIASAT HISTORY
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30738
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG089:VTK
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30737
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG090:VTV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30736
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG091:WILD TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30735
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG092:WNESS TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30734
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG093:WORLD FIGHT CHANNEL
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30733
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG094:BALKANIKA
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30732
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG095:FILMBOX PLUS
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30731
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG096:MOVIE STAR
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30730
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG097:NICK JR
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30729
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG098:ROMA TV
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30728
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG099:VIASAT EXPLORER
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30727
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bulgaria",BG100:BOOMERANG
+http://newlife3.wanicelife.com:8880/D12m4095/34273739/30726
