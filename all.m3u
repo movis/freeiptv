@@ -56,7 +56,6 @@ http://zagoratv.ddns.net:8080/tvzagora.m3u8
 https://stream.osc.bg/tvart/Stream3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNBulgaria.bg",TVN-Bulgaria (1080p)
 https://obs.friendshipchurch.eu/tvn/mystream.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="Afghanistan(افغانستان)",Aghani Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epiplay.com/wp-content/uploads/2019/01/atnnewslive-196x126.jpg" group-title="Afghanistan(افغانستان)",Ariana News
