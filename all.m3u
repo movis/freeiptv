@@ -1,130 +1,131 @@
 #EXTM3U
-#EXTINF:-1,BGБНТ1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGBNT1 HD" tvg-logo="" group-title="BULGARIA",BGBNT1 HD
 http://stb.iphd.tv/live/91858404/7757776/95193.m3u8
-#EXTINF:-1,BGbTV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGbTV HD" tvg-logo="" group-title="BULGARIA",BGbTV HD
 http://stb.iphd.tv/live/91858404/7757776/95194.m3u8
-#EXTINF:-1,BGNovaTV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGNovaTV HD" tvg-logo="" group-title="BULGARIA",BGNovaTV HD
 http://stb.iphd.tv/live/91858404/7757776/95195.m3u8
-#EXTINF:-1,BGTV1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGTV1 HD" tvg-logo="" group-title="BULGARIA",BGTV1 HD
 http://stb.iphd.tv/live/91858404/7757776/95196.m3u8
-#EXTINF:-1,BGБНТ2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGBNT2 HD" tvg-logo="" group-title="BULGARIA",BGBNT2 HD
 http://stb.iphd.tv/live/91858404/7757776/95197.m3u8
-#EXTINF:-1,BGBNT4 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGBNT4 HD" tvg-logo="" group-title="BULGARIA",BGBNT4 HD
 http://stb.iphd.tv/live/91858404/7757776/95198.m3u8
-#EXTINF:-1,BGbTV Action HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGFlim BOX HD" tvg-logo="" group-title="BULGARIA",BGFlim BOX HD
+http://stb.iphd.tv/live/91858404/7757776/95205.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BGbTV Action HD" tvg-logo="" group-title="BULGARIA",BGbTV Action HD
 http://stb.iphd.tv/live/91858404/7757776/95206.m3u8
-#EXTINF:-1,BGEurosport HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGEurosport HD" tvg-logo="" group-title="BULGARIA",BGEurosport HD
 http://stb.iphd.tv/live/91858404/7757776/95207.m3u8
-#EXTINF:-1,BGEurosport2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGEurosport2 HD" tvg-logo="" group-title="BULGARIA",BGEurosport2 HD
 http://stb.iphd.tv/live/91858404/7757776/95208.m3u8
-#EXTINF:-1,BGEurosport 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="BGEurosport 4K" tvg-logo="" group-title="BULGARIA",BGEurosport 4K
 http://stb.iphd.tv/live/91858404/7757776/95209.m3u8
-#EXTINF:-1,BGRing HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGRing HD" tvg-logo="" group-title="BULGARIA",BGRing HD
 http://stb.iphd.tv/live/91858404/7757776/95210.m3u8
-#EXTINF:-1,BGNovaSport HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGNovaSport HD" tvg-logo="" group-title="BULGARIA",BGNovaSport HD
 http://stb.iphd.tv/live/91858404/7757776/95211.m3u8
-#EXTINF:-1,BGAuto Motor Sport HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGSportal HD" tvg-logo="" group-title="BULGARIA",BGSportal HD
+http://stb.iphd.tv/live/91858404/7757776/95212.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BGAuto Motor Sport HD" tvg-logo="" group-title="BULGARIA",BGAuto Motor Sport HD
 http://stb.iphd.tv/live/91858404/7757776/95214.m3u8
-#EXTINF:-1,BGDiema Sport HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiema Sport HD" tvg-logo="" group-title="BULGARIA",BGDiema Sport HD
 http://stb.iphd.tv/live/91858404/7757776/95219.m3u8
-#EXTINF:-1,BGDiema Sport 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiema Sport 2 HD" tvg-logo="" group-title="BULGARIA",BGDiema Sport 2 HD
 http://stb.iphd.tv/live/91858404/7757776/95220.m3u8
-#EXTINF:-1,BGDiema Sport 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiema Sport 3 HD" tvg-logo="" group-title="BULGARIA",BGDiema Sport 3 HD
 http://stb.iphd.tv/live/91858404/7757776/95221.m3u8
-#EXTINF:-1,BGDiema Sport 2 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiema Sport 2 4K" tvg-logo="" group-title="BULGARIA",BGDiema Sport 2 4K
 http://stb.iphd.tv/live/91858404/7757776/95222.m3u8
-#EXTINF:-1,BGDiema Sport 3 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiema Sport 3 4K" tvg-logo="" group-title="BULGARIA",BGDiema Sport 3 4K
 http://stb.iphd.tv/live/91858404/7757776/95223.m3u8
-#EXTINF:-1,BGMAX Sport 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGMAX Sport 1 HD" tvg-logo="" group-title="BULGARIA",BGMAX Sport 1 HD
 http://stb.iphd.tv/live/91858404/7757776/95224.m3u8
-#EXTINF:-1,BGMAX Sport 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGMAX Sport 2 HD" tvg-logo="" group-title="BULGARIA",BGMAX Sport 2 HD
 http://stb.iphd.tv/live/91858404/7757776/95225.m3u8
-#EXTINF:-1,BGMAXSport 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGMAXSport 3 HD" tvg-logo="" group-title="BULGARIA",BGMAXSport 3 HD
 http://stb.iphd.tv/live/91858404/7757776/95226.m3u8
-#EXTINF:-1,BGMAX Sport 4 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGMAX Sport 4 HD" tvg-logo="" group-title="BULGARIA",BGMAX Sport 4 HD
 http://stb.iphd.tv/live/91858404/7757776/95227.m3u8
-#EXTINF:-1,BGБНТ3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGBNT3 HD" tvg-logo="" group-title="BULGARIA",BGBNT3 HD
 http://stb.iphd.tv/live/91858404/7757776/95228.m3u8
-#EXTINF:-1,BGHistory Channel HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGHistory Channel HD" tvg-logo="" group-title="BULGARIA",BGHistory Channel HD
 http://stb.iphd.tv/live/91858404/7757776/95233.m3u8
-#EXTINF:-1,BGDiscovery Channel HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiscovery Channel HD" tvg-logo="" group-title="BULGARIA",BGDiscovery Channel HD
 http://stb.iphd.tv/live/91858404/7757776/95234.m3u8
-#EXTINF:-1,BGDiscovery Science HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiscovery Science HD" tvg-logo="" group-title="BULGARIA",BGDiscovery Science HD
 http://stb.iphd.tv/live/91858404/7757776/95235.m3u8
-#EXTINF:-1,BGNational Geographic Channel HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGNational Geographic Channel HD" tvg-logo="" group-title="BULGARIA",BGNational Geographic Channel HD
 http://stb.iphd.tv/live/91858404/7757776/95239.m3u8
-#EXTINF:-1,BGNational Geogrphic WILD HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGNational Geogrphic WILD HD" tvg-logo="" group-title="BULGARIA",BGNational Geogrphic WILD HD
 http://stb.iphd.tv/live/91858404/7757776/95240.m3u8
-#EXTINF:-1,BGAnimal Planet HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGAnimal Planet HD" tvg-logo="" group-title="BULGARIA",BGAnimal Planet HD
 http://stb.iphd.tv/live/91858404/7757776/95241.m3u8
-#EXTINF:-1,BGHome 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="BGHome 4K" tvg-logo="" group-title="BULGARIA",BGHome 4K
 http://stb.iphd.tv/live/91858404/7757776/95242.m3u8
-#EXTINF:-1,BGHistory 2
+#EXTINF:-1 tvg-id="ext" tvg-name="BGHistory 2" tvg-logo="" group-title="BULGARIA",BGHistory 2
 http://stb.iphd.tv/live/91858404/7757776/95247.m3u8
-#EXTINF:-1,BGTLC HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGTLC HD" tvg-logo="" group-title="BULGARIA",BGTLC HD
 http://stb.iphd.tv/live/91858404/7757776/95248.m3u8
-#EXTINF:-1,BG24 Kitchen HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BG24 Kitchen HD" tvg-logo="" group-title="BULGARIA",BG24 Kitchen HD
 http://stb.iphd.tv/live/91858404/7757776/95250.m3u8
-#EXTINF:-1,BGViasat History HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGViasat History HD" tvg-logo="" group-title="BULGARIA",BGViasat History HD
 http://stb.iphd.tv/live/91858404/7757776/95255.m3u8
-#EXTINF:-1,BGViasat Explore HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGViasat Explore HD" tvg-logo="" group-title="BULGARIA",BGViasat Explore HD
 http://stb.iphd.tv/live/91858404/7757776/95256.m3u8
-#EXTINF:-1,BGViasat Nature HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGViasat Nature HD" tvg-logo="" group-title="BULGARIA",BGViasat Nature HD
 http://stb.iphd.tv/live/91858404/7757776/95257.m3u8
-#EXTINF:-1,BGCrime & Investigation Network
+#EXTINF:-1 tvg-id="ext" tvg-name="BGTravelxp HD" tvg-logo="" group-title="BULGARIA",BGTravelxp HD
+http://stb.iphd.tv/live/91858404/7757776/95258.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BGCrime & Investigation Network" tvg-logo="" group-title="BULGARIA",BGCrime & Investigation Network
 http://stb.iphd.tv/live/91858404/7757776/95259.m3u8
-#EXTINF:-1,BGBBC Earth HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGBBC Earth HD" tvg-logo="" group-title="BULGARIA",BGBBC Earth HD
 http://stb.iphd.tv/live/91858404/7757776/95260.m3u8
-#EXTINF:-1,BGLove Nature HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGLove Nature HD" tvg-logo="" group-title="BULGARIA",BGLove Nature HD
 http://stb.iphd.tv/live/91858404/7757776/95261.m3u8
-#EXTINF:-1,BGDocu Box HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDocu Box HD" tvg-logo="" group-title="BULGARIA",BGDocu Box HD
 http://stb.iphd.tv/live/91858404/7757776/95262.m3u8
-#EXTINF:-1,BGMuseum 4K
-http://stb.iphd.tv/live/91858404/7757776/95263.m3u8
-#EXTINF:-1,BGLove Nature 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="BGLove Nature 4K" tvg-logo="" group-title="BULGARIA",BGLove Nature 4K
 http://stb.iphd.tv/live/91858404/7757776/95270.m3u8
-#EXTINF:-1,BGLuxe TV 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="BGLuxe TV 4K" tvg-logo="" group-title="BULGARIA",BGLuxe TV 4K
 http://stb.iphd.tv/live/91858404/7757776/95271.m3u8
-#EXTINF:-1,BGHeritage TV 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="BGHeritage TV 4K" tvg-logo="" group-title="BULGARIA",BGHeritage TV 4K
 http://stb.iphd.tv/live/91858404/7757776/95272.m3u8
-#EXTINF:-1,BGMuseum HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGMuseum HD" tvg-logo="" group-title="BULGARIA",BGMuseum HD
 http://stb.iphd.tv/live/91858404/7757776/95273.m3u8
-#EXTINF:-1,BGKino Nova
+#EXTINF:-1 tvg-id="ext" tvg-name="BGKino Nova" tvg-logo="" group-title="BULGARIA",BGKino Nova
 http://stb.iphd.tv/live/91858404/7757776/95274.m3u8
-#EXTINF:-1,BGcinebox HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGcinebox HD" tvg-logo="" group-title="BULGARIA",BGcinebox HD
 http://stb.iphd.tv/live/91858404/7757776/95275.m3u8
-#EXTINF:-1,BGactionbox
+#EXTINF:-1 tvg-id="ext" tvg-name="BGactionbox" tvg-logo="" group-title="BULGARIA",BGactionbox
 http://stb.iphd.tv/live/91858404/7757776/95276.m3u8
-#EXTINF:-1,BGcomedybox
+#EXTINF:-1 tvg-id="ext" tvg-name="BGcomedybox" tvg-logo="" group-title="BULGARIA",BGcomedybox
 http://stb.iphd.tv/live/91858404/7757776/95277.m3u8
-#EXTINF:-1,BGDiema
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiema" tvg-logo="" group-title="BULGARIA",BGDiema
 http://stb.iphd.tv/live/91858404/7757776/95278.m3u8
-#EXTINF:-1,BGbTV Cinema
+#EXTINF:-1 tvg-id="ext" tvg-name="BGbTV Cinema" tvg-logo="" group-title="BULGARIA",BGbTV Cinema
 http://stb.iphd.tv/live/91858404/7757776/95279.m3u8
-#EXTINF:-1,BGbTV Comedy
+#EXTINF:-1 tvg-id="ext" tvg-name="BGbTV Comedy" tvg-logo="" group-title="BULGARIA",BGbTV Comedy
 http://stb.iphd.tv/live/91858404/7757776/95280.m3u8
-#EXTINF:-1,BGbTV Story
+#EXTINF:-1 tvg-id="ext" tvg-name="BGbTV Story" tvg-logo="" group-title="BULGARIA",BGbTV Story
 http://stb.iphd.tv/live/91858404/7757776/95281.m3u8
-#EXTINF:-1,BGDiema Family
+#EXTINF:-1 tvg-id="ext" tvg-name="BGDiema Family" tvg-logo="" group-title="BULGARIA",BGDiema Family
 http://stb.iphd.tv/live/91858404/7757776/95282.m3u8
-#EXTINF:-1,BGFOX HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGFOX HD" tvg-logo="" group-title="BULGARIA",BGFOX HD
 http://stb.iphd.tv/live/91858404/7757776/95283.m3u8
-#EXTINF:-1,BGFox Life HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGFox Life HD" tvg-logo="" group-title="BULGARIA",BGFox Life HD
 http://stb.iphd.tv/live/91858404/7757776/95284.m3u8
-#EXTINF:-1,BGFox Crime HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGFox Crime HD" tvg-logo="" group-title="BULGARIA",BGFox Crime HD
 http://stb.iphd.tv/live/91858404/7757776/95285.m3u8
-#EXTINF:-1,BGTV 1000
-http://stb.iphd.tv/live/91858404/7757776/95289.m3u8
-#EXTINF:-1,BGHBO HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGHBO HD" tvg-logo="" group-title="BULGARIA",BGHBO HD
 http://stb.iphd.tv/live/91858404/7757776/95302.m3u8
-#EXTINF:-1,BGHBO2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGHBO2 HD" tvg-logo="" group-title="BULGARIA",BGHBO2 HD
 http://stb.iphd.tv/live/91858404/7757776/95303.m3u8
-#EXTINF:-1,BGHBO3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGHBO3 HD" tvg-logo="" group-title="BULGARIA",BGHBO3 HD
 http://stb.iphd.tv/live/91858404/7757776/95304.m3u8
-#EXTINF:-1,BGCinemax HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGCinemax HD" tvg-logo="" group-title="BULGARIA",BGCinemax HD
 http://stb.iphd.tv/live/91858404/7757776/95305.m3u8
-#EXTINF:-1,BGCinemax2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGCinemax2 HD" tvg-logo="" group-title="BULGARIA",BGCinemax2 HD
 http://stb.iphd.tv/live/91858404/7757776/95306.m3u8
-#EXTINF:-1,BGPlaneta HD
+#EXTINF:-1 tvg-id="ext" tvg-name="BGPlaneta HD" tvg-logo="" group-title="BULGARIA",BGPlaneta HD
 http://stb.iphd.tv/live/91858404/7757776/95307.m3u8
-
