@@ -1,203 +1,410 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="------|Bulgaria|------" tvg-logo="" group-title="Bulgaria",------|Bulgaria|------
-http://wanicelife.com:8880/live/6mk050001/74379474/30826.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG001:BBC EARTH" tvg-logo="" group-title="Bulgaria",BG001:BBC EARTH
-http://wanicelife.com:8880/live/6mk050001/74379474/30825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG002:AUTO MOTOR SPORT" tvg-logo="" group-title="Bulgaria",BG002:AUTO MOTOR SPORT
-http://wanicelife.com:8880/live/6mk050001/74379474/30824.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG003:BNT 1" tvg-logo="" group-title="Bulgaria",BG003:BNT 1
-http://wanicelife.com:8880/live/6mk050001/74379474/30823.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG004:BNT 2" tvg-logo="" group-title="Bulgaria",BG004:BNT 2
-http://wanicelife.com:8880/live/6mk050001/74379474/30822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG005:BNT 3" tvg-logo="" group-title="Bulgaria",BG005:BNT 3
-http://wanicelife.com:8880/live/6mk050001/74379474/30821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG006:BNT 4" tvg-logo="" group-title="Bulgaria",BG006:BNT 4
-http://wanicelife.com:8880/live/6mk050001/74379474/30820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG007:BTV" tvg-logo="" group-title="Bulgaria",BG007:BTV
-http://wanicelife.com:8880/live/6mk050001/74379474/30819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG008:BTV COMEDY" tvg-logo="" group-title="Bulgaria",BG008:BTV COMEDY
-http://wanicelife.com:8880/live/6mk050001/74379474/30818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG009:BTV CINEMA" tvg-logo="" group-title="Bulgaria",BG009:BTV CINEMA
-http://wanicelife.com:8880/live/6mk050001/74379474/30817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG010:BTV ACTION" tvg-logo="" group-title="Bulgaria",BG010:BTV ACTION
-http://wanicelife.com:8880/live/6mk050001/74379474/30816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG011:BTV LADY" tvg-logo="" group-title="Bulgaria",BG011:BTV LADY
-http://wanicelife.com:8880/live/6mk050001/74379474/30815.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG012:MAX SPORT 1" tvg-logo="" group-title="Bulgaria",BG012:MAX SPORT 1
-http://wanicelife.com:8880/live/6mk050001/74379474/30814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG013:MAX SPORT 2" tvg-logo="" group-title="Bulgaria",BG013:MAX SPORT 2
-http://wanicelife.com:8880/live/6mk050001/74379474/30813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG014:MAX SPORT 3" tvg-logo="" group-title="Bulgaria",BG014:MAX SPORT 3
-http://wanicelife.com:8880/live/6mk050001/74379474/30812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG015:MAX SPORT 4" tvg-logo="" group-title="Bulgaria",BG015:MAX SPORT 4
-http://wanicelife.com:8880/live/6mk050001/74379474/30811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG016:DIEMA TV" tvg-logo="" group-title="Bulgaria",BG016:DIEMA TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG017:DIEMA SPORT" tvg-logo="" group-title="Bulgaria",BG017:DIEMA SPORT
-http://wanicelife.com:8880/live/6mk050001/74379474/30809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG018:DIEMA SPORT 2" tvg-logo="" group-title="Bulgaria",BG018:DIEMA SPORT 2
-http://wanicelife.com:8880/live/6mk050001/74379474/30808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG019:DIEMA FAMILY" tvg-logo="" group-title="Bulgaria",BG019:DIEMA FAMILY
-http://wanicelife.com:8880/live/6mk050001/74379474/30807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG020:24 KITCHEN" tvg-logo="" group-title="Bulgaria",BG020:24 KITCHEN
-http://wanicelife.com:8880/live/6mk050001/74379474/30806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG021:ACTION PLUS" tvg-logo="" group-title="Bulgaria",BG021:ACTION PLUS
-http://wanicelife.com:8880/live/6mk050001/74379474/30805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG022:ALFA TV" tvg-logo="" group-title="Bulgaria",BG022:ALFA TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG023:AMC" tvg-logo="" group-title="Bulgaria",BG023:AMC
-http://wanicelife.com:8880/live/6mk050001/74379474/30803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG024:ANIMAL PLANET" tvg-logo="" group-title="Bulgaria",BG024:ANIMAL PLANET
-http://wanicelife.com:8880/live/6mk050001/74379474/30802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG025:AXN" tvg-logo="" group-title="Bulgaria",BG025:AXN
-http://wanicelife.com:8880/live/6mk050001/74379474/30801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG026:BABY TV" tvg-logo="" group-title="Bulgaria",BG026:BABY TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG027:BG MUSIC" tvg-logo="" group-title="Bulgaria",BG027:BG MUSIC
-http://wanicelife.com:8880/live/6mk050001/74379474/30799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG028:BG DNES" tvg-logo="" group-title="Bulgaria",BG028:BG DNES
-http://wanicelife.com:8880/live/6mk050001/74379474/30798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG029:BLOOMBERG" tvg-logo="" group-title="Bulgaria",BG029:BLOOMBERG
-http://wanicelife.com:8880/live/6mk050001/74379474/30797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG030:BOX TV" tvg-logo="" group-title="Bulgaria",BG030:BOX TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG031:BULGARIA 24" tvg-logo="" group-title="Bulgaria",BG031:BULGARIA 24
-http://wanicelife.com:8880/live/6mk050001/74379474/30795.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG032:BULGARIA ON AIR" tvg-logo="" group-title="Bulgaria",BG032:BULGARIA ON AIR
-http://wanicelife.com:8880/live/6mk050001/74379474/30794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG033:BSTV" tvg-logo="" group-title="Bulgaria",BG033:BSTV
-http://wanicelife.com:8880/live/6mk050001/74379474/30793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG034:CARTOON NETWORK" tvg-logo="" group-title="Bulgaria",BG034:CARTOON NETWORK
-http://wanicelife.com:8880/live/6mk050001/74379474/30792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG035:CINEMA PLUS" tvg-logo="" group-title="Bulgaria",BG035:CINEMA PLUS
-http://wanicelife.com:8880/live/6mk050001/74379474/30791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG036:CINEMAX" tvg-logo="" group-title="Bulgaria",BG036:CINEMAX
-http://wanicelife.com:8880/live/6mk050001/74379474/30790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG037:CINEMAX 2" tvg-logo="" group-title="Bulgaria",BG037:CINEMAX 2
-http://wanicelife.com:8880/live/6mk050001/74379474/30789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG038:CITY TV" tvg-logo="" group-title="Bulgaria",BG038:CITY TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG039:CODE FASHION TV" tvg-logo="" group-title="Bulgaria",BG039:CODE FASHION TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG040:COMEDY PLUS" tvg-logo="" group-title="Bulgaria",BG040:COMEDY PLUS
-http://wanicelife.com:8880/live/6mk050001/74379474/30786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG041:DESTINATIONS" tvg-logo="" group-title="Bulgaria",BG041:DESTINATIONS
-http://wanicelife.com:8880/live/6mk050001/74379474/30785.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG042:DISCOVERY CHANNEL" tvg-logo="" group-title="Bulgaria",BG042:DISCOVERY CHANNEL
-http://wanicelife.com:8880/live/6mk050001/74379474/30784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG043:DISCOVERY SCIENCE" tvg-logo="" group-title="Bulgaria",BG043:DISCOVERY SCIENCE
-http://wanicelife.com:8880/live/6mk050001/74379474/30783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG044:DISNEY CHANNEL" tvg-logo="" group-title="Bulgaria",BG044:DISNEY CHANNEL
-http://wanicelife.com:8880/live/6mk050001/74379474/30782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG045:vip dstv" tvg-logo="" group-title="Bulgaria",BG045:vip dstv
-http://wanicelife.com:8880/live/6mk050001/74379474/30781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG046:DUCK TV" tvg-logo="" group-title="Bulgaria",BG046:DUCK TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG047:E KIDS" tvg-logo="" group-title="Bulgaria",BG047:E KIDS
-http://wanicelife.com:8880/live/6mk050001/74379474/30779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG048:EVROKOM" tvg-logo="" group-title="Bulgaria",BG048:EVROKOM
-http://wanicelife.com:8880/live/6mk050001/74379474/30778.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG049:FEN TV" tvg-logo="" group-title="Bulgaria",BG049:FEN TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG050:FILM PLUS" tvg-logo="" group-title="Bulgaria",BG050:FILM PLUS
-http://wanicelife.com:8880/live/6mk050001/74379474/30776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG051:FILMBOX EXTRA" tvg-logo="" group-title="Bulgaria",BG051:FILMBOX EXTRA
-http://wanicelife.com:8880/live/6mk050001/74379474/30775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG052:FOLKLOR" tvg-logo="" group-title="Bulgaria",BG052:FOLKLOR
-http://wanicelife.com:8880/live/6mk050001/74379474/30774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG053:FOOD NETWORK" tvg-logo="" group-title="Bulgaria",BG053:FOOD NETWORK
-http://wanicelife.com:8880/live/6mk050001/74379474/30773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG054:FOX CRIME" tvg-logo="" group-title="Bulgaria",BG054:FOX CRIME
-http://wanicelife.com:8880/live/6mk050001/74379474/30772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG055:FOX" tvg-logo="" group-title="Bulgaria",BG055:FOX
-http://wanicelife.com:8880/live/6mk050001/74379474/30771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG056:FOX LIFE" tvg-logo="" group-title="Bulgaria",BG056:FOX LIFE
-http://wanicelife.com:8880/live/6mk050001/74379474/30770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG057:HBO" tvg-logo="" group-title="Bulgaria",BG057:HBO
-http://wanicelife.com:8880/live/6mk050001/74379474/30769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG058:HBO 2" tvg-logo="" group-title="Bulgaria",BG058:HBO 2
-http://wanicelife.com:8880/live/6mk050001/74379474/30768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG059:HBO 3" tvg-logo="" group-title="Bulgaria",BG059:HBO 3
-http://wanicelife.com:8880/live/6mk050001/74379474/30767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG060:HISTORY CHANNEL" tvg-logo="" group-title="Bulgaria",BG060:HISTORY CHANNEL
-http://wanicelife.com:8880/live/6mk050001/74379474/30766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG061:HIT MIX CHANNEL" tvg-logo="" group-title="Bulgaria",BG061:HIT MIX CHANNEL
-http://wanicelife.com:8880/live/6mk050001/74379474/30765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG062:HOBBY LOV" tvg-logo="" group-title="Bulgaria",BG062:HOBBY LOV
-http://wanicelife.com:8880/live/6mk050001/74379474/30764.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG063:HOBBY TV" tvg-logo="" group-title="Bulgaria",BG063:HOBBY TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG064:ICONCERTS" tvg-logo="" group-title="Bulgaria",BG064:ICONCERTS
-http://wanicelife.com:8880/live/6mk050001/74379474/30762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG065:ID EXTRA" tvg-logo="" group-title="Bulgaria",BG065:ID EXTRA
-http://wanicelife.com:8880/live/6mk050001/74379474/30761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG066:JIM JAM" tvg-logo="" group-title="Bulgaria",BG066:JIM JAM
-http://wanicelife.com:8880/live/6mk050001/74379474/30760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG067:NOVA NEWS" tvg-logo="" group-title="Bulgaria",BG067:NOVA NEWS
-http://wanicelife.com:8880/live/6mk050001/74379474/30759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG068:KINONOVA" tvg-logo="" group-title="Bulgaria",BG068:KINONOVA
-http://wanicelife.com:8880/live/6mk050001/74379474/30758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG069:MAGIC TV" tvg-logo="" group-title="Bulgaria",BG069:MAGIC TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG070:MTV" tvg-logo="" group-title="Bulgaria",BG070:MTV
-http://wanicelife.com:8880/live/6mk050001/74379474/30756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG071:NAT GEO" tvg-logo="" group-title="Bulgaria",BG071:NAT GEO
-http://wanicelife.com:8880/live/6mk050001/74379474/30755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG072:NAT GEO WILD" tvg-logo="" group-title="Bulgaria",BG072:NAT GEO WILD
-http://wanicelife.com:8880/live/6mk050001/74379474/30754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG073:NICKELODEON" tvg-logo="" group-title="Bulgaria",BG073:NICKELODEON
-http://wanicelife.com:8880/live/6mk050001/74379474/30753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG074:NOVA TV" tvg-logo="" group-title="Bulgaria",BG074:NOVA TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG075:PLANETA FOLK" tvg-logo="" group-title="Bulgaria",BG075:PLANETA FOLK
-http://wanicelife.com:8880/live/6mk050001/74379474/30751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG076:PLANETA" tvg-logo="" group-title="Bulgaria",BG076:PLANETA
-http://wanicelife.com:8880/live/6mk050001/74379474/30750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG077:RETRO MUSIC" tvg-logo="" group-title="Bulgaria",BG077:RETRO MUSIC
-http://wanicelife.com:8880/live/6mk050001/74379474/30749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG078:RING" tvg-logo="" group-title="Bulgaria",BG078:RING
-http://wanicelife.com:8880/live/6mk050001/74379474/30748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG079:SKAT TV" tvg-logo="" group-title="Bulgaria",BG079:SKAT TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG080:THE VOICE" tvg-logo="" group-title="Bulgaria",BG080:THE VOICE
-http://wanicelife.com:8880/live/6mk050001/74379474/30746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG081:TIANKOV FOLK" tvg-logo="" group-title="Bulgaria",BG081:TIANKOV FOLK
-http://wanicelife.com:8880/live/6mk050001/74379474/30745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG082:TLC" tvg-logo="" group-title="Bulgaria",BG082:TLC
-http://wanicelife.com:8880/live/6mk050001/74379474/30744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG083:TRAVEL CHANNEL" tvg-logo="" group-title="Bulgaria",BG083:TRAVEL CHANNEL
-http://wanicelife.com:8880/live/6mk050001/74379474/30743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG084:TV 1000" tvg-logo="" group-title="Bulgaria",BG084:TV 1000
-http://wanicelife.com:8880/live/6mk050001/74379474/30742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG085:TV EVROPA" tvg-logo="" group-title="Bulgaria",BG085:TV EVROPA
-http://wanicelife.com:8880/live/6mk050001/74379474/30741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG086:TV PLUS" tvg-logo="" group-title="Bulgaria",BG086:TV PLUS
-http://wanicelife.com:8880/live/6mk050001/74379474/30740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG087:TV 1" tvg-logo="" group-title="Bulgaria",BG087:TV 1
-http://wanicelife.com:8880/live/6mk050001/74379474/30739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG088:VIASAT HISTORY" tvg-logo="" group-title="Bulgaria",BG088:VIASAT HISTORY
-http://wanicelife.com:8880/live/6mk050001/74379474/30738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG089:VTK" tvg-logo="" group-title="Bulgaria",BG089:VTK
-http://wanicelife.com:8880/live/6mk050001/74379474/30737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG090:VTV" tvg-logo="" group-title="Bulgaria",BG090:VTV
-http://wanicelife.com:8880/live/6mk050001/74379474/30736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG091:WILD TV" tvg-logo="" group-title="Bulgaria",BG091:WILD TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG092:WNESS TV" tvg-logo="" group-title="Bulgaria",BG092:WNESS TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG093:WORLD FIGHT CHANNEL" tvg-logo="" group-title="Bulgaria",BG093:WORLD FIGHT CHANNEL
-http://wanicelife.com:8880/live/6mk050001/74379474/30733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG094:BALKANIKA" tvg-logo="" group-title="Bulgaria",BG094:BALKANIKA
-http://wanicelife.com:8880/live/6mk050001/74379474/30732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG095:FILMBOX PLUS" tvg-logo="" group-title="Bulgaria",BG095:FILMBOX PLUS
-http://wanicelife.com:8880/live/6mk050001/74379474/30731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG096:MOVIE STAR" tvg-logo="" group-title="Bulgaria",BG096:MOVIE STAR
-http://wanicelife.com:8880/live/6mk050001/74379474/30730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG097:NICK JR" tvg-logo="" group-title="Bulgaria",BG097:NICK JR
-http://wanicelife.com:8880/live/6mk050001/74379474/30729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG098:ROMA TV" tvg-logo="" group-title="Bulgaria",BG098:ROMA TV
-http://wanicelife.com:8880/live/6mk050001/74379474/30728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG099:VIASAT EXPLORER" tvg-logo="" group-title="Bulgaria",BG099:VIASAT EXPLORER
-http://wanicelife.com:8880/live/6mk050001/74379474/30727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG100:BOOMERANG" tvg-logo="" group-title="Bulgaria",BG100:BOOMERANG
-http://wanicelife.com:8880/live/6mk050001/74379474/30726.m3u8
+vg-logo="http://iphd.tv/service/bulsat/bnt1-22-11-2021.svg" group-title="Bulgars",BG:БНТ1 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95193.m3u8
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="BG:bTV HD" tvg-logo="http://iphd.tv/service/bulsat/btv-23-04-2019.svg" group-title="Bulgars",BG:bTV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95194.m3u8
+#EXTINF:-1 tvg-id="NOVA.bg" tvg-name="BG:NovaTV HD" tvg-logo="http://iphd.tv/service/bulsat/nova-23-04-2019.svg" group-title="Bulgars",BG:NovaTV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95195.m3u8
+#EXTINF:-1 tvg-id="TV1Bulgaria.bg" tvg-name="BG:TV1 HD" tvg-logo="http://iphd.tv/service/bulsat/tv1-01-11-2021.svg" group-title="Bulgars",BG:TV1 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95196.m3u8
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BG:БНТ2 HD" tvg-logo="http://iphd.tv/service/bulsat/bnt2-22-11-2021.svg" group-title="Bulgars",BG:БНТ2 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95197.m3u8
+#EXTINF:-1 tvg-id="BNT1+4.bg" tvg-name="BG:BNT4 HD" tvg-logo="https://iphd.tv/service/bulsat/bnt4-23-04-2019.svg" group-title="Bulgars",BG:BNT4 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95198.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Euronews Bulgaria" tvg-logo="https://iphd.tv/service/bulsat/euronews_bulgaria-05-05-2022.svg" group-title="Bulgars",BG:Euronews Bulgaria
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95199.m3u8
+#EXTINF:-1 tvg-id="NOVAnews.bg" tvg-name="BG:Nova News HD" tvg-logo="https://iphd.tv/service/bulsat/novanews-07-01-2021.svg" group-title="Bulgars",BG:Nova News HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95200.m3u8
+#EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-name="BG:Bulgaria ON AIR HD" tvg-logo="https://iphd.tv/service/bulsat/bulgaria_on_air-23-04-2019.svg" group-title="Bulgars",BG:Bulgaria ON AIR HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95201.m3u8
+#EXTINF:-1 tvg-id="Evrokom.bg" tvg-name="BG:Evrokom" tvg-logo="https://iphd.tv/service/bulsat/evrokom-23-04-2019.svg" group-title="Bulgars",BG:Evrokom
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95202.m3u8
+#EXTINF:-1 tvg-id="BloombergTVBG.bg" tvg-name="BG:Bloomberg TV Bulgaria HD" tvg-logo="https://iphd.tv/service/bulsat/bloomberg-23-04-2019.svg" group-title="Bulgars",BG:Bloomberg TV Bulgaria HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95203.m3u8
+#EXTINF:-1 tvg-id="7/8 TV" tvg-name="BG:7/8 HD" tvg-logo="https://iphd.tv/service/bulsat/78tv-28-03-2021.svg" group-title="Bulgars",BG:7/8 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95204.m3u8
+#EXTINF:-1 tvg-id="FilmBox.bg" tvg-name="BG:Flim BOX HD" tvg-logo="http://iphd.tv/service/bulsat/b1b_box-15-07-2021.svg" group-title="Bulgars",BG:Flim BOX HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95205.m3u8
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="BG:bTV Action HD" tvg-logo="http://iphd.tv/service/bulsat/btv_action-23-04-2019.svg" group-title="Bulgars",BG:bTV Action HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95206.m3u8
+#EXTINF:-1 tvg-id="EurosportHD.bg" tvg-name="BG:Eurosport HD" tvg-logo="http://iphd.tv/service/bulsat/eurosport-23-04-2019.svg" group-title="Bulgars",BG:Eurosport HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95207.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.bg" tvg-name="BG:Eurosport2 HD" tvg-logo="http://iphd.tv/service/bulsat/eurosport2-23-04-2019.svg" group-title="Bulgars",BG:Eurosport2 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95208.m3u8
+#EXTINF:-1 tvg-id="Eurosport.bg" tvg-name="BG:Eurosport 4K" tvg-logo="http://iphd.tv/service/bulsat/eurosport_4k-26-03-2021.svg" group-title="Bulgars",BG:Eurosport 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95209.m3u8
+#EXTINF:-1 tvg-id="RINGBG.bg" tvg-name="BG:Ring HD" tvg-logo="http://iphd.tv/service/bulsat/ring-23-04-2019.svg" group-title="Bulgars",BG:Ring HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95210.m3u8
+#EXTINF:-1 tvg-id="NOVAsport.bg" tvg-name="BG:NovaSport HD" tvg-logo="http://iphd.tv/service/bulsat/novasport-22-11-2021.svg" group-title="Bulgars",BG:NovaSport HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95211.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Sportal HD" tvg-logo="http://iphd.tv/service/bulsat/sportal_bg-07-01-2021.svg" group-title="Bulgars",BG:Sportal HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95212.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:DTX HD" tvg-logo="http://iphd.tv/service/bulsat/dtx-09-01-2021.svg" group-title="Bulgars",BG:DTX HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95213.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Auto Motor Sport HD" tvg-logo="http://iphd.tv/service/bulsat/automotorsport-23-04-2019.svg" group-title="Bulgars",BG:Auto Motor Sport HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95214.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Motorvision HD" tvg-logo="http://iphd.tv/service/bulsat/motorvision_hd-07-01-2021.svg" group-title="Bulgars",BG:Motorvision HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95215.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Fast&Fun Box HD" tvg-logo="http://iphd.tv/service/bulsat/fast_fun_box-16-02-2021.svg" group-title="Bulgars",BG:Fast&Fun Box HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95216.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Fight Box HD" tvg-logo="http://iphd.tv/service/bulsat/fightbox-16-02-2021.svg" group-title="Bulgars",BG:Fight Box HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95217.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:MMA TV" tvg-logo="http://iphd.tv/service/bulsat/mma_tv-06-02-2022.svg" group-title="Bulgars",BG:MMA TV
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95218.m3u8
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="BG:Diema Sport HD" tvg-logo="http://iphd.tv/service/bulsat/diemasport-23-04-2019.svg" group-title="Bulgars",BG:Diema Sport HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95219.m3u8
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="BG:Diema Sport 2 HD" tvg-logo="http://iphd.tv/service/bulsat/diemasport2-23-04-2019.svg" group-title="Bulgars",BG:Diema Sport 2 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95220.m3u8
+#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-name="BG:Diema Sport 3 HD" tvg-logo="http://iphd.tv/service/bulsat/diemasport3-15-07-2021.svg" group-title="Bulgars",BG:Diema Sport 3 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95221.m3u8
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="BG:Diema Sport 2 4K" tvg-logo="http://iphd.tv/service/bulsat/diemasport2_4k-23-01-2023.svg" group-title="Bulgars",BG:Diema Sport 2 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95222.m3u8
+#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-name="BG:Diema Sport 3 4K" tvg-logo="http://iphd.tv/service/bulsat/diemasport3_4k-17-11-2022.svg" group-title="Bulgars",BG:Diema Sport 3 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95223.m3u8
+#EXTINF:-1 tvg-id="MAXSport1.bg" tvg-name="BG:MAX Sport 1 HD" tvg-logo="http://iphd.tv/service/bulsat/maxsport1-01-11-2021.svg" group-title="Bulgars",BG:MAX Sport 1 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95224.m3u8
+#EXTINF:-1 tvg-id="MAXSport2.bg" tvg-name="BG:MAX Sport 2 HD" tvg-logo="http://iphd.tv/service/bulsat/maxsport2-01-11-2021.svg" group-title="Bulgars",BG:MAX Sport 2 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:MAXSport 3 HD" tvg-logo="" group-title="Bulgars",BG:MAXSport 3 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95226.m3u8
+#EXTINF:-1 tvg-id="MAXSport3.bg" tvg-name="BG:MAX Sport 4 HD" tvg-logo="http://iphd.tv/service/bulsat/maxsport4-01-11-2021.svg" group-title="Bulgars",BG:MAX Sport 4 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95227.m3u8
+#EXTINF:-1 tvg-id="BNT1+3.bg" tvg-name="BG:БНТ3 HD" tvg-logo="http://iphd.tv/service/bulsat/bnt3-22-11-2021.svg" group-title="Bulgars",BG:БНТ3 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95228.m3u8
+#EXTINF:-1 tvg-id="EdgeSport.bg" tvg-name="BG:EDGESport HD" tvg-logo="http://iphd.tv/service/bulsat/edge_sport_hd-07-01-2021.svg" group-title="Bulgars",BG:EDGESport HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95229.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Trace Sport Stars HD" tvg-logo="http://iphd.tv/service/bulsat/trace_sport_stars-22-11-2021.svg" group-title="Bulgars",BG:Trace Sport Stars HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95230.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Gametoon HD" tvg-logo="http://iphd.tv/service/bulsat/gametoon-16-02-2021.svg" group-title="Bulgars",BG:Gametoon HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95231.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:KHL" tvg-logo="http://iphd.tv/service/bulsat/khl-14-02-2021.svg" group-title="Bulgars",BG:KHL
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95232.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.bg" tvg-name="BG:History Channel HD" tvg-logo="http://iphd.tv/service/bulsat/history_channel-23-04-2019.svg" group-title="Bulgars",BG:History Channel HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95233.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="BG:Discovery Channel HD" tvg-logo="http://iphd.tv/service/bulsat/discovery-23-04-2019.svg" group-title="Bulgars",BG:Discovery Channel HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95234.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.bg" tvg-name="BG:Discovery Science HD" tvg-logo="http://iphd.tv/service/bulsat/discovery_science-23-04-2019.svg" group-title="Bulgars",BG:Discovery Science HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95235.m3u8
+#EXTINF:-1 tvg-id="HobbyTV.bg" tvg-name="BG:Hobby HD отнет лиценз" tvg-logo="http://iphd.tv/service/bulsat/hobby_hd-07-01-2021.svg" group-title="Bulgars",BG:Hobby HD отнет лиценз
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95236.m3u8
+#EXTINF:-1 tvg-id="HobbyTV.bg" tvg-name="BG:Ловно-рибарски клуб HD" tvg-logo="http://iphd.tv/service/bulsat/lovnoribarsk.svg" group-title="Bulgars",BG:Ловно-рибарски клуб HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95237.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:National Geographic Channel HD" tvg-logo="http://iphd.tv/service/bulsat/natgeo-23-04-2019.svg" group-title="Bulgars",BG:National Geographic Channel HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95239.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.bg" tvg-name="BG:National Geogrphic WILD HD" tvg-logo="http://iphd.tv/service/bulsat/natgeowild-23-04-2019.svg" group-title="Bulgars",BG:National Geogrphic WILD HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95240.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.bg" tvg-name="BG:Animal Planet HD" tvg-logo="http://iphd.tv/service/bulsat/animal_planet-23-04-2019.svg" group-title="Bulgars",BG:Animal Planet HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95241.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Home 4K" tvg-logo="http://iphd.tv/service/bulsat/home_4k-06-02-2022.svg" group-title="Bulgars",BG:Home 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95242.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Поехали!" tvg-logo="http://iphd.tv/service/bulsat/poehali-07-01-2021.svg" group-title="Bulgars",BG:Поехали!
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95243.m3u8
+#EXTINF:-1 tvg-id="Travel.bg" tvg-name="BG:Travel TV" tvg-logo="http://iphd.tv/service/bulsat/traveltv-23-04-2019.svg" group-title="Bulgars",BG:Travel TV
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95244.m3u8
+#EXTINF:-1 tvg-id="Travel.bg" tvg-name="BG:Travel Channel HD" tvg-logo="http://iphd.tv/service/bulsat/travelchannel-23-04-2019.svg" group-title="Bulgars",BG:Travel Channel HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95245.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:This is Bulgaria HD" tvg-logo="http://iphd.tv/service/bulsat/this_is_bulgaria-22-11-2021.svg" group-title="Bulgars",BG:This is Bulgaria HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95246.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:History 2" tvg-logo="http://iphd.tv/service/bulsat/history2-07-01-2021.svg" group-title="Bulgars",BG:History 2
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95247.m3u8
+#EXTINF:-1 tvg-id="TLC.bg" tvg-name="BG:TLC HD" tvg-logo="http://iphd.tv/service/bulsat/tlc-23-04-2019.svg" group-title="Bulgars",BG:TLC HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95248.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:HGTV HD" tvg-logo="http://iphd.tv/service/bulsat/hgtv-07-01-2021.svg" group-title="Bulgars",BG:HGTV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95249.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-name="BG:24 Kitchen HD" tvg-logo="http://iphd.tv/service/bulsat/24kitchen-23-04-2019.svg" group-title="Bulgars",BG:24 Kitchen HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95250.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.bg" tvg-name="BG:Food Network HD" tvg-logo="http://iphd.tv/service/bulsat/food_network-23-04-2019.svg" group-title="Bulgars",BG:Food Network HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95251.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Телекафе" tvg-logo="http://iphd.tv/service/bulsat/food_network-23-04-2019.svg" group-title="Bulgars",BG:Телекафе
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95252.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Soul & Pepper HD" tvg-logo="http://iphd.tv/service/bulsat/soul_pepper-09-12-2022.svg" group-title="Bulgars",BG:Soul & Pepper HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95253.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Wness HD" tvg-logo="http://iphd.tv/service/bulsat/wness-23-04-2019.svg" group-title="Bulgars",BG:Wness HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95254.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="BG:Viasat History HD" tvg-logo="http://iphd.tv/service/bulsat/viasat_history-17-02-2022.svg" group-title="Bulgars",BG:Viasat History HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95255.m3u8
+#EXTINF:-1 tvg-id="ViasatExplorer.bg" tvg-name="BG:Viasat Explore HD" tvg-logo="http://iphd.tv/service/bulsat/viasat_explore-17-02-2022.svg" group-title="Bulgars",BG:Viasat Explore HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95256.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="BG:Viasat Nature HD" tvg-logo="http://iphd.tv/service/bulsat/viasat_nature-17-02-2022.svg" group-title="Bulgars",BG:Viasat Nature HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95257.m3u8
+#EXTINF:-1 tvg-id="Travel.bg" tvg-name="BG:Travelxp HD" tvg-logo="http://iphd.tv/service/bulsat/travelxp_hd-07-01-2021.svg" group-title="Bulgars",BG:Travelxp HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95258.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.bg" tvg-name="BG:Crime & Investigation Network" tvg-logo="http://iphd.tv/service/bulsat/crime_investigation-07-01-2021.svg" group-title="Bulgars",BG:Crime & Investigation Network
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95259.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:BBC Earth HD" tvg-logo="http://iphd.tv/service/bulsat/bbc_earth-17-01-2022.svg" group-title="Bulgars",BG:BBC Earth HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95260.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Love Nature HD" tvg-logo="http://iphd.tv/service/bulsat/love_nature-02-11-2020.svg" group-title="Bulgars",BG:Love Nature HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95261.m3u8
+#EXTINF:-1 tvg-id="DocuBox.bg" tvg-name="BG:Docu Box HD" tvg-logo="http://iphd.tv/service/bulsat/docubox-16-02-2021.svg" group-title="Bulgars",BG:Docu Box HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95262.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Museum 4K" tvg-logo="http://iphd.tv/service/bulsat/museum_4k-06-02-2022.svg" group-title="Bulgars",BG:Museum 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95263.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Fuel TV HD" tvg-logo="http://iphd.tv/service/bulsat/fueltv-04-03-2021.svg" group-title="Bulgars",BG:Fuel TV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95264.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Охотаирыбалка" tvg-logo="http://iphd.tv/service/bulsat/ohota_i_rybalka-26-10-2020.svg" group-title="Bulgars",BG:Охотаирыбалка
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95265.m3u8
+#EXTINF:-1 tvg-id="TVT.bg" tvg-name="BG:TVT" tvg-logo="http://iphd.tv/service/bulsat/tvt-18-01-2021.svg" group-title="Bulgars",BG:TVT
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95266.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:English Club" tvg-logo="http://iphd.tv/service/bulsat/english_club-03-03-2021.svg" group-title="Bulgars",BG:English Club
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95267.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:The World" tvg-logo="http://iphd.tv/service/bulsat/the_world-23-04-2019.svg" group-title="Bulgars",BG:The World
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95268.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Живи" tvg-logo="http://iphd.tv/service/bulsat/jivi-07-01-2021.svg" group-title="Bulgars",BG:Живи
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95269.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Love Nature 4K" tvg-logo="http://iphd.tv/service/bulsat/love_nature_4k-28-02-2021.svg" group-title="Bulgars",BG:Love Nature 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95270.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Luxe TV 4K" tvg-logo="http://iphd.tv/service/bulsat/luxe_4k-06-02-2022.svg" group-title="Bulgars",BG:Luxe TV 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95271.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Heritage TV 4K" tvg-logo="http://iphd.tv/service/bulsat/heritage_4k-06-02-2022.svg" group-title="Bulgars",BG:Heritage TV 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95272.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Museum HD" tvg-logo="http://iphd.tv/service/bulsat/museum-06-02-2022.svg" group-title="Bulgars",BG:Museum HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95273.m3u8
+#EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="BG:Kino Nova" tvg-logo="http://iphd.tv/service/bulsat/kinonova-23-04-2019.svg" group-title="Bulgars",BG:Kino Nova
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95274.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:cinebox HD" tvg-logo="http://iphd.tv/service/bulsat/cine_box-31-07-2021.svg" group-title="Bulgars",BG:cinebox HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:actionbox" tvg-logo="http://iphd.tv/service/bulsat/action_box-31-07-2021.svg" group-title="Bulgars",BG:actionbox
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:comedybox" tvg-logo="http://iphd.tv/service/bulsat/comedy_box-31-07-2021.svg" group-title="Bulgars",BG:comedybox
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95277.m3u8
+#EXTINF:-1 tvg-id="Diema.bg" tvg-name="BG:Diema" tvg-logo="http://iphd.tv/service/bulsat/diema-23-04-2019.svg" group-title="Bulgars",BG:Diema
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95278.m3u8
+#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="BG:bTV Cinema" tvg-logo="http://iphd.tv/service/bulsat/btv_cinema-23-04-2019.svg" group-title="Bulgars",BG:bTV Cinema
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95279.m3u8
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="BG:bTV Comedy" tvg-logo="http://iphd.tv/service/bulsat/btv_comedy-23-04-2019.svg" group-title="Bulgars",BG:bTV Comedy
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95280.m3u8
+#EXTINF:-1 tvg-id="BTVStory.bg" tvg-name="BG:bTV Story" tvg-logo="http://iphd.tv/service/bulsat/btv_lady-23-04-2019.svg" group-title="Bulgars",BG:bTV Story
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95281.m3u8
+#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="BG:Diema Family" tvg-logo="http://iphd.tv/service/bulsat/diema_family-19-05-2019.svg" group-title="Bulgars",BG:Diema Family
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95282.m3u8
+#EXTINF:-1 tvg-id="FOX.bg" tvg-name="BG:FOX HD" tvg-logo="http://iphd.tv/service/bulsat/fox-23-04-2019.svg" group-title="Bulgars",BG:FOX HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95283.m3u8
+#EXTINF:-1 tvg-id="FOXLife.bg" tvg-name="BG:Fox Life HD" tvg-logo="http://iphd.tv/service/bulsat/fox_life-23-04-2019.svg" group-title="Bulgars",BG:Fox Life HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95284.m3u8
+#EXTINF:-1 tvg-id="FOXCrime.bg" tvg-name="BG:Fox Crime HD" tvg-logo="http://iphd.tv/service/bulsat/fox_crime-23-04-2019.svg" group-title="Bulgars",BG:Fox Crime HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95285.m3u8
+#EXTINF:-1 tvg-id="AXN.bg" tvg-name="BG:AXN" tvg-logo="http://iphd.tv/service/bulsat/axn-23-04-2019.svg" group-title="Bulgars",BG:AXN
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95286.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.bg" tvg-name="BG:AXN Black" tvg-logo="http://iphd.tv/service/bulsat/axn_black-23-04-2019.svg" group-title="Bulgars",BG:AXN Black
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95287.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.bg" tvg-name="BG:AXN White" tvg-logo="http://iphd.tv/service/bulsat/axn_white-23-04-2019.svg" group-title="Bulgars",BG:AXN White
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95288.m3u8
+#EXTINF:-1 tvg-id="ViasatTV1000Balkan.bg" tvg-name="BG:TV 1000" tvg-logo="http://iphd.tv/service/bulsat/tv1000-17-02-2022.svg" group-title="Bulgars",BG:TV 1000
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Nostalgia" tvg-logo="http://iphd.tv/service/bulsat/nostalgia-10-04-2021.svg" group-title="Bulgars",BG:Nostalgia
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95290.m3u8
+#EXTINF:-1 tvg-id="IDXtra.bg" tvg-name="BG:ID Xtra HD" tvg-logo="https://iphd.tv/service/bulsat/IDx-23-04-2019_2.svg" group-title="Bulgars",BG:ID Xtra HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95291.m3u8
+#EXTINF:-1 tvg-id="ID.bg" tvg-name="BG:IDx" tvg-logo="https://iphd.tv/service/bulsat/IDx-23-04-2019_2.svg" group-title="Bulgars",BG:IDx
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95292.m3u8
+#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="BG:Moviestar HD" tvg-logo="http://iphd.tv/service/bulsat/moviestar-23-04-2019.svg" group-title="Bulgars",BG:Moviestar HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95293.m3u8
+#EXTINF:-1 tvg-id="FilmBoxExtra.bg" tvg-name="BG:FilmBox Extra HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_extra-16-02-2021.svg" group-title="Bulgars",BG:FilmBox Extra HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95294.m3u8
+#EXTINF:-1 tvg-id="FilmboxStars.bg" tvg-name="BG:FilmBox Stars HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_stars-18-02-2021.svg" group-title="Bulgars",BG:FilmBox Stars HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95295.m3u8
+#EXTINF:-1 tvg-id="FilmboxArthouse.ww" tvg-name="BG:FilmBox Arthouse HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_arthouse-16-02-2021.svg" group-title="Bulgars",BG:FilmBox Arthouse HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95296.m3u8
+#EXTINF:-1 tvg-id="AMC.bg" tvg-name="BG:AMC" tvg-logo="http://iphd.tv/service/bulsat/amc-17-02-2022.svg" group-title="Bulgars",BG:AMC
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95297.m3u8
+#EXTINF:-1 tvg-id="EpicDrama.bg" tvg-name="BG:Epic Drama HD" tvg-logo="http://iphd.tv/service/bulsat/epic_drama-08-02-2021.svg" group-title="Bulgars",BG:Epic Drama HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95298.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:TDC HD" tvg-logo="http://iphd.tv/service/bulsat/tdc-07-01-2021.svg" group-title="Bulgars",BG:TDC HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95299.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Домкино" tvg-logo="http://iphd.tv/service/bulsat/dom_kino-20-10-2020.svg" group-title="Bulgars",BG:Домкино
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95300.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Нашекино" tvg-logo="http://iphd.tv/service/bulsat/nashe_kino-07-09-2020.svg" group-title="Bulgars",BG:Нашекино
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95301.m3u8
+#EXTINF:-1 tvg-id="HBO.bg" tvg-name="BG:HBO HD" tvg-logo="http://iphd.tv/service/bulsat/hbo-08-02-2021.svg" group-title="Bulgars",BG:HBO HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95302.m3u8
+#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="BG:HBO2 HD" tvg-logo="http://iphd.tv/service/bulsat/hbo2-08-02-2021.svg" group-title="Bulgars",BG:HBO2 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95303.m3u8
+#EXTINF:-1 tvg-id="HBO3.bg" tvg-name="BG:HBO3 HD" tvg-logo="http://iphd.tv/service/bulsat/hbo3-08-02-2021.svg" group-title="Bulgars",BG:HBO3 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95304.m3u8
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="BG:Cinemax HD" tvg-logo="http://iphd.tv/service/bulsat/cinemax-17-02-2022.svg" group-title="Bulgars",BG:Cinemax HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95305.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="BG:Cinemax2 HD" tvg-logo="http://iphd.tv/service/bulsat/cinemax2-17-02-2022.svg" group-title="Bulgars",BG:Cinemax2 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95306.m3u8
+#EXTINF:-1 tvg-id="PlanetaHD.bg" tvg-name="BG:Planeta HD" tvg-logo="http://iphd.tv/service/bulsat/planeta_hd-23-04-2019.svg" group-title="Bulgars",BG:Planeta HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95307.m3u8
+#EXTINF:-1 tvg-id="PlanetaHD.bg" tvg-name="BG:Planeta 4K" tvg-logo="http://iphd.tv/service/bulsat/planeta_4k-29-03-2021.svg" group-title="Bulgars",BG:Planeta 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95308.m3u8
+#EXTINF:-1 tvg-id="FANTV.bg" tvg-name="BG:FenTV HD" tvg-logo="http://iphd.tv/service/bulsat/fentv-23-04-2019.svg" group-title="Bulgars",BG:FenTV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95309.m3u8
+#EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="BG:Balkanika HD" tvg-logo="http://iphd.tv/service/bulsat/balkanika-23-04-2019.svg" group-title="Bulgars",BG:Balkanika HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95310.m3u8
+#EXTINF:-1 tvg-id="PlanetaFolk.bg" tvg-name="BG:Planeta Folk" tvg-logo="http://iphd.tv/service/bulsat/planetafolk-23-04-2019.svg" group-title="Bulgars",BG:Planeta Folk
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95311.m3u8
+#EXTINF:-1 tvg-id="FolklorTV.bg" tvg-name="BG:Folklor TV HD" tvg-logo="http://iphd.tv/service/bulsat/folklortv-18-01-2021.svg" group-title="Bulgars",BG:Folklor TV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95312.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Fen Folk TV" tvg-logo="http://iphd.tv/service/bulsat/fentv_folk-23-04-2019.svg" group-title="Bulgars",BG:Fen Folk TV
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95313.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:TV Rodina HD" tvg-logo="http://iphd.tv/service/bulsat/rodina-23-04-2019.svg" group-title="Bulgars",BG:TV Rodina HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95314.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Tiankov Folk HD" tvg-logo="http://iphd.tv/service/bulsat/tiankov_folk-23-04-2019.svg" group-title="Bulgars",BG:Tiankov Folk HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95315.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Tianko vOrient HD" tvg-logo="http://iphd.tv/service/bulsat/tiankov_orient_folk-23-04-2019.svg" group-title="Bulgars",BG:Tianko vOrient HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95316.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:DSTV" tvg-logo="http://iphd.tv/service/bulsat/dstv-23-04-2019.svg" group-title="Bulgars",BG:DSTV
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95317.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:HitMix Music HD" tvg-logo="http://iphd.tv/service/bulsat/hit-23-04-2019.svg" group-title="Bulgars",BG:HitMix Music HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95318.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Roma TV HD" tvg-logo="http://iphd.tv/service/bulsat/romatv-08-02-2021.svg" group-title="Bulgars",BG:Roma TV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95319.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:DMSAT" tvg-logo="http://iphd.tv/service/bulsat/dmsat-23-04-2019.svg" group-title="Bulgars",BG:DMSAT
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95320.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:KCNSvet+3" tvg-logo="http://iphd.tv/service/bulsat/kcn_svet_3-16-05-2021.svg" group-title="Bulgars",BG:KCNSvet+3
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:KCNMusic2" tvg-logo="http://iphd.tv/service/bulsat/kcn_music_2-07-01-2021.svg" group-title="Bulgars",BG:KCNMusic2
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:MTV Europe" tvg-logo="http://iphd.tv/service/bulsat/mtv_europe-07-01-2021.svg" group-title="Bulgars",BG:MTV Europe
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95323.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Djazz HD" tvg-logo="http://iphd.tv/service/bulsat/djazz-09-04-2020.svg" group-title="Bulgars",BG:Djazz HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95324.m3u8
+#EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="BG:The Voice HD" tvg-logo="https://iphd.tv/service/bulsat/voice-23-04-2019_2.svg" group-title="Bulgars",BG:The Voice HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95325.m3u8
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-name="BG:City TV HD" tvg-logo="http://iphd.tv/service/bulsat/city-23-04-2019.svg" group-title="Bulgars",BG:City TV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95326.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Magic TV HD" tvg-logo="http://iphd.tv/service/bulsat/magictv-23-04-2019.svg" group-title="Bulgars",BG:Magic TV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95327.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:iConcerts HD" tvg-logo="http://iphd.tv/service/bulsat/iconcerts-15-03-2021.svg" group-title="Bulgars",BG:iConcerts HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95328.m3u8
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="BG:BOX HD" tvg-logo="http://iphd.tv/service/bulsat/box-23-04-2019.svg" group-title="Bulgars",BG:BOX HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95329.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:BG Music Channel HD" tvg-logo="http://iphd.tv/service/bulsat/bgmusic-23-04-2019.svg" group-title="Bulgars",BG:BG Music Channel HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95330.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:MTV 80s" tvg-logo="http://iphd.tv/service/bulsat/mtv80s-07-01-2021.svg" group-title="Bulgars",BG:MTV 80s
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:MTV 90s" tvg-logo="http://iphd.tv/service/bulsat/mtv90s-04-03-2021.svg" group-title="Bulgars",BG:MTV 90s
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95332.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:MTV 00s" tvg-logo="http://iphd.tv/service/bulsat/mtv00s-01-11-2021.svg" group-title="Bulgars",BG:MTV 00s
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:MTV Live HD" tvg-logo="http://iphd.tv/service/bulsat/mtv_live-14-02-2021.svg" group-title="Bulgars",BG:MTV Live HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:MTV Hits" tvg-logo="http://iphd.tv/service/bulsat/mtv_hits-22-11-2021.svg" group-title="Bulgars",BG:MTV Hits
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Classical Harmony HD" tvg-logo="http://iphd.tv/service/bulsat/classical_harmony-23-04-2019.svg" group-title="Bulgars",BG:Classical Harmony HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95336.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Classica" tvg-logo="http://iphd.tv/service/bulsat/classica-06-02-2022.svg" group-title="Bulgars",BG:Classica
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95337.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Mezzo" tvg-logo="http://iphd.tv/service/bulsat/mezzo-16-04-2020.svg" group-title="Bulgars",BG:Mezzo
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Mezzo Live HD" tvg-logo="http://iphd.tv/service/bulsat/mezzo_live-09-04-2020.svg" group-title="Bulgars",BG:Mezzo Live HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:360 TuneBox HD" tvg-logo="http://iphd.tv/service/bulsat/360_tune_box-16-02-2021.svg" group-title="Bulgars",BG:360 TuneBox HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95340.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:C music" tvg-logo="http://iphd.tv/service/bulsat/cmusic-06-02-2022.svg" group-title="Bulgars",BG:C music
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95341.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Trace Urban" tvg-logo="http://iphd.tv/service/bulsat/trace_urban-08-02-2021.svg" group-title="Bulgars",BG:Trace Urban
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Trace Latina" tvg-logo="http://iphd.tv/service/bulsat/trace_latina-06-02-2022.svg" group-title="Bulgars",BG:Trace Latina
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Trace Africa" tvg-logo="http://iphd.tv/service/bulsat/trace_africa-06-02-2022.svg" group-title="Bulgars",BG:Trace Africa
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Trace Caribbean" tvg-logo="http://iphd.tv/service/bulsat/trace_caribbean-06-02-2022.svg" group-title="Bulgars",BG:Trace Caribbean
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95345.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Lolly Kids HD" tvg-logo="http://iphd.tv/service/bulsat/lolly_kids-19-06-2020.svg" group-title="Bulgars",BG:Lolly Kids HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Музыка" tvg-logo="http://iphd.tv/service/bulsat/muzyka_pervogo-15-03-2021.svg" group-title="Bulgars",BG:Музыка
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG: HeyKids" tvg-logo="https://iphd.tv/service/heykids.png" group-title="Bulgars",BG: HeyKids
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/118963.m3u8
+#EXTINF:-1 tvg-id="Disney.bg" tvg-name="BG:Disney Channel" tvg-logo="http://iphd.tv/service/bulsat/disney-23-04-2019.svg" group-title="Bulgars",BG:Disney Channel
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95348.m3u8
+#EXTINF:-1 tvg-id="CN.bg" tvg-name="BG:Cartoon Network HD" tvg-logo="http://iphd.tv/service/bulsat/cartoon_network-23-04-2019.svg" group-title="Bulgars",BG:Cartoon Network HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95349.m3u8
+#EXTINF:-1 tvg-id="NickJr.bg" tvg-name="BG:NickJr" tvg-logo="http://iphd.tv/service/bulsat/nickjr-23-04-2019.svg" group-title="Bulgars",BG:NickJr
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Cartoonito HD" tvg-logo="http://iphd.tv/service/bulsat/cartoonito-20-03-2023.svg" group-title="Bulgars",BG:Cartoonito HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95351.m3u8
+#EXTINF:-1 tvg-id="Nick.bg" tvg-name="BG:Nickelodeon" tvg-logo="http://iphd.tv/service/bulsat/nickelodeon-23-04-2019.svg" group-title="Bulgars",BG:Nickelodeon
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95352.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Baby TV" tvg-logo="http://iphd.tv/service/bulsat/babytv-09-04-2020.svg" group-title="Bulgars",BG:Baby TV
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95353.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.bg" tvg-name="BG:Disney Junior" tvg-logo="http://iphd.tv/service/bulsat/disney_junior-07-04-2020.svg" group-title="Bulgars",BG:Disney Junior
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95354.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.bg" tvg-name="BG:Nicktoons" tvg-logo="http://iphd.tv/service/bulsat/nicktoons-24-10-2020.svg" group-title="Bulgars",BG:Nicktoons
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95355.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:SuperToons" tvg-logo="http://iphd.tv/service/bulsat/super_toons-07-01-2021.svg" group-title="Bulgars",BG:SuperToons
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95356.m3u8
+#EXTINF:-1 tvg-id="EKids.bg" tvg-name="BG:Ekids" tvg-logo="http://iphd.tv/service/bulsat/ekids-23-04-2019.svg" group-title="Bulgars",BG:Ekids
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95357.m3u8
+#EXTINF:-1 tvg-id="FixFoxi.de" tvg-name="BG:Fix & Foxi" tvg-logo="http://iphd.tv/service/bulsat/fix_and_foxi-23-04-2019.svg" group-title="Bulgars",BG:Fix & Foxi
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95358.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:RiC" tvg-logo="http://iphd.tv/service/bulsat/ric-09-03-2021.svg" group-title="Bulgars",BG:RiC
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Карусель" tvg-logo="http://iphd.tv/service/bulsat/karussel-08-09-2020.svg" group-title="Bulgars",BG:Карусель
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:ДетскийМир" tvg-logo="http://iphd.tv/service/bulsat/detskiy_mir-09-04-2020.svg" group-title="Bulgars",BG:ДетскийМир
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95361.m3u8
+#EXTINF:-1 tvg-id="DaVinciLearning.bg" tvg-name="BG:DaVinci Learning" tvg-logo="http://iphd.tv/service/bulsat/davinci_learning-23-04-2019.svg" group-title="Bulgars",BG:DaVinci Learning
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95362.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:ECTV forKids HD" tvg-logo="http://iphd.tv/service/bulsat/ectv_for_kids-13-03-2021.svg" group-title="Bulgars",BG:ECTV forKids HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95363.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:CNN" tvg-logo="http://iphd.tv/service/bulsat/cnn-23-04-2019.svg" group-title="Bulgars",BG:CNN
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95364.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Euronews HD" tvg-logo="http://iphd.tv/service/bulsat/euronews-23-04-2019.svg" group-title="Bulgars",BG:Euronews HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Пловдивскаправославнателевизия HD" tvg-logo="http://iphd.tv/service/bulsat/pptv-27-10-2020.svg" group-title="Bulgars",BG:Пловдивскаправославнателевизия HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:БХТВ" tvg-logo="http://iphd.tv/service/bulsat/bhtv-09-02-2021.svg" group-title="Bulgars",BG:БХТВ
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95369.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:AgroTV" tvg-logo="http://iphd.tv/service/bulsat/agrotv-09-04-2020.svg" group-title="Bulgars",BG:AgroTV
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:БСТВ HD" tvg-logo="http://iphd.tv/service/bulsat/bstv-11-02-2021.svg" group-title="Bulgars",BG:БСТВ HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95371.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Bulgaria 24 HD" tvg-logo="http://iphd.tv/service/bulsat/bulgaria24-23-04-2019.svg" group-title="Bulgars",BG:Bulgaria 24 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Alfa" tvg-logo="http://iphd.tv/service/bulsat/alfa-23-04-2019.svg" group-title="Bulgars",BG:Alfa
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95373.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Skat" tvg-logo="http://iphd.tv/service/bulsat/skat-23-04-2019.svg" group-title="Bulgars",BG:Skat
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Freeдом" tvg-logo="http://iphd.tv/service/bulsat/freedom-08-09-2022.svg" group-title="Bulgars",BG:Freeдом
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Бобёр" tvg-logo="http://iphd.tv/service/bulsat/bober-07-01-2021.svg" group-title="Bulgars",BG:Бобёр
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Канал8" tvg-logo="http://iphd.tv/service/bulsat/channel8-11-02-2021.svg" group-title="Bulgars",BG:Канал8
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:НастоящееВремя HD" tvg-logo="http://iphd.tv/service/bulsat/current_time-23-10-2020.svg" group-title="Bulgars",BG:НастоящееВремя HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:TV 999 HD" tvg-logo="http://iphd.tv/service/bulsat/999tv-09-04-2020.svg" group-title="Bulgars",BG:TV 999 HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:RTVi" tvg-logo="http://iphd.tv/service/bulsat/rtvi-09-04-2020.svg" group-title="Bulgars",BG:RTVi
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:ERT World" tvg-logo="http://iphd.tv/service/bulsat/ert_world-08-12-2021.svg" group-title="Bulgars",BG:ERT World
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:KCN Kopernikus1" tvg-logo="http://iphd.tv/service/bulsat/kcn_kopernikus_1-16-05-2021.svg" group-title="Bulgars",BG:KCN Kopernikus1
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:НашаТВ HD" tvg-logo="http://iphd.tv/service/bulsat/nasha_tv-18-05-2022.svg" group-title="Bulgars",BG:НашаТВ HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:TRTWorld" tvg-logo="http://iphd.tv/service/bulsat/trt-07-01-2021.svg" group-title="Bulgars",BG:TRTWorld
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:AlJazeera" tvg-logo="http://iphd.tv/service/bulsat/al_jazeera-29-03-2021.svg" group-title="Bulgars",BG:AlJazeera
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:MyZenTV HD" tvg-logo="http://iphd.tv/service/bulsat/zen_tv-06-02-2022.svg" group-title="Bulgars",BG:MyZenTV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95396.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:TV Zagora" tvg-logo="http://iphd.tv/service/bulsat/tv_zagora-01-02-2023.svg" group-title="Bulgars",BG:TV Zagora
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:TV Stara Zagora" tvg-logo="http://iphd.tv/service/bulsat/tv_stara_zagora-01-02-2023.svg" group-title="Bulgars",BG:TV Stara Zagora
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Stoychev HD" tvg-logo="http://iphd.tv/service/bulsat/stoychev-01-02-2023.svg" group-title="Bulgars",BG:Stoychev HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:POTV Trakia" tvg-logo="http://iphd.tv/service/bulsat/po_tv_trakia-29-03-2021.svg" group-title="Bulgars",BG:POTV Trakia
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:TV Shumen" tvg-logo="http://iphd.tv/service/bulsat/tv_shumen-07-01-2021.svg" group-title="Bulgars",BG:TV Shumen
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Kiss13" tvg-logo="http://iphd.tv/service/bulsat/kiss_13-07-01-2021.svg" group-title="Bulgars",BG:Kiss13
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:БГ+ HD" tvg-logo="http://iphd.tv/service/bulsat/bg_plus-26-02-2022.svg" group-title="Bulgars",BG:БГ+ HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:VTK" tvg-logo="http://iphd.tv/service/bulsat/vtk-23-04-2019.svg" group-title="Bulgars",BG:VTK
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95404.m3u8
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:FashionBox HD" tvg-logo="http://iphd.tv/service/bulsat/fashion_box_hd-07-01-2021.svg" group-title="Bulgars",BG:FashionBox HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Code FashionTV HD" tvg-logo="http://iphd.tv/service/bulsat/code_fashion_tv-07-01-2021.svg" group-title="Bulgars",BG:Code FashionTV HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:Code Health HD" tvg-logo="http://iphd.tv/service/bulsat/code_health-08-03-2021.svg" group-title="Bulgars",BG:Code Health HD
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG:MyZen TV 4K" tvg-logo="http://iphd.tv/service/bulsat/zen_4k-06-02-2022.svg" group-title="Bulgars",BG:MyZen TV 4K
+http://stb.iphd.tv:80/live/urwsz6h882/8P06Eb9KAh/95408.m3u8
+
