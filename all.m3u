@@ -1,5 +1,5 @@
 #EXTM3U
-vg-logo="http://iphd.tv/service/bulsat/bnt1-22-11-2021.svg" group-title="Bulgars",BG:БНТ1 HD
+#EXTINF:-1 vg-logo="http://iphd.tv/service/bulsat/bnt1-22-11-2021.svg" group-title="Bulgars",BG:БНТ1 HD
 http://stb.iphd.tv:80/live/91858404/7757776/95193.m3u8
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="BG:bTV HD" tvg-logo="http://iphd.tv/service/bulsat/btv-23-04-2019.svg" group-title="Bulgars",BG:bTV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95194.m3u8
